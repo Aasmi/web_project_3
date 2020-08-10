@@ -10,3 +10,10 @@
     text-align: right;
 
 }
+
+@media screen and (max-width:425px){
+    .footer__copyright{
+        height:14px;
+        text-align:left;
+    }
+}
