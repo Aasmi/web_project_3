@@ -1,3 +1,5 @@
+@import url('./_highlighted/header__lang-link_highlighted.css');
+
 .header__lang-link{
     width: 29px;
     height: 28px;
@@ -10,12 +12,8 @@
     color:white;
 }
 
-.header__lang-link:nth-last-child(1){
-    text-decoration: none;
-}
-
 @media screen and (max-width:425px){    
-    .heading_lang-link{
+    .header__lang-link{
         width: 22px;
         height: 24px;
         font-size: 18px;

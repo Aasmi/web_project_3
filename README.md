@@ -12,12 +12,8 @@ This is a project about traveling across the US. We've made it so all the elemen
 
 **Setup Instructions**
 
-Clone the current Repository, in your local directory.
-
-``` git clone https://github.com/Aasmi/web_project_3
-```
-
-Open ```index.html``` file.
+The webpage can be found [here](https://aasmi.github.io/web_project_3/)
+```https://aasmi.github.io/web_project_3/```
 
 **Future Improvements**
 1. Find more destinations across US and document the Photographic Journey as part of the collection on this website.
